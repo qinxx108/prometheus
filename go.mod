@@ -80,7 +80,7 @@ require (
 	golang.org/x/sys v0.19.0
 	golang.org/x/time v0.5.0
 	golang.org/x/tools v0.20.0
-	google.golang.org/api v0.174.0
+	google.golang.org/api v0.176.1
 	google.golang.org/genproto/googleapis/api v0.0.0-20240415180920-8c6c420018be
 	google.golang.org/grpc v1.63.2
 	google.golang.org/protobuf v1.33.0
@@ -94,8 +94,8 @@ require (
 )
 
 require (
-	cloud.google.com/go/auth v0.2.0 // indirect
-	cloud.google.com/go/auth/oauth2adapt v0.2.0 // indirect
+	cloud.google.com/go/auth v0.3.0 // indirect
+	cloud.google.com/go/auth/oauth2adapt v0.2.2 // indirect
 	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.5.2 // indirect
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.2.2 // indirect
